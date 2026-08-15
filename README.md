@@ -177,7 +177,7 @@ About 30 seconds later you get a live URL like `caprio-and-co.vercel.app`. Share
    - A **CNAME record** for `www` pointing to `cname.vercel-dns.com`
 4. Wait. DNS propagation takes anywhere from ten minutes to a few hours.
 
-HTTPS is issued automatically and free. Once the domain is live, update the `https://caprioandco.com` URLs inside `sitemap.xml`, `robots.txt`, and the `canonical` and `og:` tags at the top of each HTML file so search engines index the right address.
+HTTPS is issued automatically and free. Once the domain is live, update the `https://www.caprioandco.com` URLs inside `sitemap.xml`, `robots.txt`, and the `canonical` and `og:` tags at the top of each HTML file so search engines index the right address.
 
 ---
 

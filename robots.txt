@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://caprioandco.com/sitemap.xml
+Sitemap: https://www.caprioandco.com/sitemap.xml
